@@ -6,10 +6,10 @@
 I develop software, create content and love meeting new people!
 
 
-[![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekjain1416&count_private=true&show_icons=true)](https://github.com/vermakhushboo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjain1416&layout=compact)](https://github.com/abhishekjain1416/github-readme-stats)
+[![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekjain1416&count_private=true&show_icons=true)](https://github.com/abhishekjain1416)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjain1416&layout=compact&hide=css)](https://github.com/abhishekjain1416)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjain1416" alt="abhishekjain1416" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjain1416" alt="Abhishek's Github Streak Stats" /></p>
 
 <!--
 **abhishekjain1416/abhishekjain1416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
