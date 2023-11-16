@@ -8,7 +8,7 @@ I develop software, create content and love meeting new people!
 
 
 [![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekjain1416&count_private=true&show_icons=true)](https://github.com/abhishekjain1416)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjain1416&layout=compact&hide=css)](https://github.com/abhishekjain1416)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjain1416&layout=compact&hide=css,ejs)](https://github.com/abhishekjain1416)
 [![Abhishek's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjain1416)](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjain1416)
 
 
